@@ -1,4 +1,4 @@
-# react-cli-explain
+# react-redux-explain
 
 #### 项目介绍
 react-redux-explain
