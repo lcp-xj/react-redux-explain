@@ -1,7 +1,7 @@
-# react-redux-explain
+# react-cli
 
 #### 项目介绍
-react-redux-explain
+react-cli
 
 #### 软件架构
 一个基于webpack、webpack-server-dev搭建的react项目;
